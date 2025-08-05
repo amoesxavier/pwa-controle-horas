@@ -1,0 +1,15 @@
+{
+  "name": "Controle de Horas",
+  "short_name": "Horas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3498db",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/2088/2088617.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
